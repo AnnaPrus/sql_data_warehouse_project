@@ -20,12 +20,12 @@ Analytics & Reporting: Developing SQL-based reports and dashboards to provide ac
 
 This project showcases the following experties: 
 
-SQL Development
-Data Architecture
-Data Engineering
-ETL Pipeline Development
-Data Modeling
-Data Analytics
+- SQL Development
+- Data Architecture
+- Data Engineering
+- ETL Pipeline Development
+- Data Modeling
+- Data Analytics
 ---
 # 🚀 Project Requirements
 ## Building the Data Warehouse 
